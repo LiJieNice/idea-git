@@ -5,5 +5,15 @@ public class Test1 {
 
 
         System.out.println("我是李杰  222");
+
+        System.out.println("woshi 二号");
     }
 }
+
+
+
+
+
+
+
+
